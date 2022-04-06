@@ -19,7 +19,7 @@ Fill in as much information as possible. If you could provide us with a screensh
 
 ## Have an suggestion or want to report hackers?
 
-If you have any suggestions about this game, you can submit your suggestions [the official forum](https://forum.uuvana.com/t/suggestions). Make sure to read the sticky posts before posting!
+If you have any suggestions about this game, you can submit your suggestions on [the official forum](https://forum.uuvana.com/t/suggestions). Make sure to read the sticky posts before posting!
 
 And if you want to report a hacker please use the ticket system in our [Discord server](https://discord.com/invite/Longvinter). To open one follow the instructions:
 1. Go to #☎-contact;
