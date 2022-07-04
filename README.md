@@ -23,7 +23,7 @@ If you have any suggestions about this game, you can submit your suggestions on 
 
 And if you want to report a hacker please use the ticket system in our [Discord server](https://discord.com/invite/Longvinter). To open one follow the instructions:
 1. Go to #☎-contact;
-2. React to 👮 which is referent to Bot Reporting;
+2. React to 👮 which is referent to Bot/Hacker Reporting;
 3. Inform which server you were playing on (Official only);
 4. Post all images/videos and any information you have on the hacker.
 
