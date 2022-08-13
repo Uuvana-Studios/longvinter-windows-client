@@ -21,7 +21,7 @@ Fill in as much information as possible. If you could provide us with a screensh
 
 If you have any suggestions about this game, you can submit your suggestions on [the official forum](https://forum.uuvana.com/t/suggestions). Make sure to read the sticky posts before posting!
 
-And if you want to report a hacker please use the new ticket system in our https://uuvana.com/contact. To open one follow the instructions:
+And if you want to report a hacker please use our new ticket system at https://uuvana.com/contact. To open one follow the instructions:
 1. Go to https://uuvana.com/contact;
 2. Enter your information e.g. Name, Email, Server, SteamID;
 3. Select the category of message you would like to send us;
