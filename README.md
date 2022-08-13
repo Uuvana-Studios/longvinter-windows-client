@@ -21,11 +21,8 @@ Fill in as much information as possible. If you could provide us with a screensh
 
 If you have any suggestions about this game, you can submit your suggestions on [the official forum](https://forum.uuvana.com/t/suggestions). Make sure to read the sticky posts before posting!
 
-And if you want to report a hacker please use the ticket system in our [Discord server](https://discord.com/invite/Longvinter). To open one follow the instructions:
-1. Go to #☎-contact;
-2. React to 👮 which is referent to Bot/Hacker Reporting;
-3. Inform which server you were playing on (Official only);
-4. Post all images/videos and any information you have on the hacker.
-
-![image](https://user-images.githubusercontent.com/28383557/160378547-be55a138-9827-4c55-8581-b9b2fc2d8509.png#gh-dark-mode-only)
-![image](https://user-images.githubusercontent.com/28383557/160378390-fcdc4442-b176-4a5d-9b84-f2566ce5a69e.png#gh-light-mode-only)
+And if you want to report a hacker please use the new ticket system in our https://uuvana.com/contact. To open one follow the instructions:
+1. Go to https://uuvana.com/contact;
+2. Enter your information e.g. Name, Email, Server, SteamID;
+3. Select the category of message you would like to send us;
+4. Enter your message in the message box, please use as much detail as possible so we can help you quickly;
